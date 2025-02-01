@@ -1,8 +1,7 @@
-# React + Vite
+# 🎲Random Advices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was made to train the usage of API in a React website and as well to train my english writing capacities.
 
-Currently, two official plugins are available:
+Once you load the page you will be able to see a random advice from the API I found on the internet, every time you refresh the page you will be greated a new advice.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The API used in this repository: https://api.adviceslip.com/#endpoint-
